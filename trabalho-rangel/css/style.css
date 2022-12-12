@@ -1,0 +1,231 @@
+/* 
+ESSA CLASSE NÃO SERVE DE NADA,
+APENAS PARA VOCÊS VEREM OS HEXAS
+DAS CORES DO LAYOUT 
+*/
+.cores{
+    color: #4A56F9;
+    color: #BE123C;
+    color: #1F2937;
+    color: #F1F5F9;
+    color: #64748B;
+    color: #3A5479
+}
+
+/*
+################### 
+################### 
+SEU CÓDIGO 
+DAQUI PARA BAIXO 
+##################
+##################
+*/
+
+header{
+    background-color: #F1F5F9;
+}
+
+header .container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 25px;
+    margin: auto;
+}
+
+header .user{
+    display: flex;
+    padding: 10px 0px;
+    text-align: left;
+    margin-left: 50px;
+    margin-inline: 50px;
+}
+
+.user img{
+    margin: 0px 15px;
+}
+
+main .pai{
+    display: flex;
+    flex-direction: column;
+    padding: 30px 0px 0px 357px;
+}
+
+main input[type="text"]{
+border: none;
+width: 442px;
+height: 5px;
+background-color: #64748B;
+font-size: 18px;
+padding: 20px;
+}
+
+
+
+main input[type="submit"]{
+    width: 100px;
+    height: 50px;
+    color: #F1F5F9;
+    background-color: #4A56F9;
+    border: none;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.pai p{
+    font-size: 15px;
+}
+
+main .pai .m37021080-html{
+    background-color: #F1F5F9;
+    display: flex;
+    margin-top: 10px; 
+    height: 103px;
+    width: 588px;
+}
+
+main .pai .m37021080-html img{
+    padding: 18px 0px 0px 1px;
+}
+
+.m37021080-html .text{
+    padding: 27px 0px 14px 0px;
+}
+
+main .m37021080-html h4{
+    font-size: 25px;
+    
+}
+main .m37021080-html h3{
+    font-weight: bold;
+    text-align: right;
+    font-size: 50px;
+    margin: 24px 110px;
+    color:  #4A56F9;
+}
+
+main .pai .m37021080-css{
+    background-color: #F1F5F9;
+    display: flex;
+    margin-top: 10px;
+    height: 103px;
+    width: 588px;
+}
+
+main .m37021080-css h3{
+    font-weight: bold;
+    text-align: right;
+    font-size: 50px;
+    margin: 24px 110px;
+    color:  #4A56F9;
+}
+
+main .m37021080-css h4{
+    font-size: 25px;
+}
+
+main .pai .m37021080-css img{
+    padding: 18px 0px 0px 1px;
+}
+
+.m37021080-css .text{
+    padding: 27px 0px 14px 0px;
+}
+
+.pai .m37021080-css p{
+    font-size: 15px;
+}
+
+main .pai .m37021080-java{
+    background-color: #F1F5F9;
+    display: flex;
+    margin-top: 10px;
+    height: 103px;
+    width: 588px;  
+}
+
+main .m37021080-java h3{
+    font-weight: bold;
+    text-align: right;
+    font-size: 50px;
+    margin: 24px 110px;
+    color:  #4A56F9;
+}
+
+main .pai .m37021080-java img{
+    padding: 18px 0px 0px 1px;
+}
+
+.m37021080-java .text{
+    padding: 16px 0px 14px 0px;
+}
+
+main .m37021080-java h4{
+    font-size: 25px;
+}
+
+.pai .m37021080-java p{
+    font-size: 15px;
+}
+
+main .pai .m37021080-python{
+    background-color: #F1F5F9;
+    display: flex;
+    margin-top: 10px;
+    height: 103px;
+    width: 588px;
+}
+
+main .m37021080-python h3{
+    font-weight: bold;
+    text-align: right;
+    font-size: 50px;
+    margin: 24px 110px;
+    color:   #BE123C;
+}
+
+main .pai .m37021080-python img{
+    padding: 18px 0px 0px 1px;
+}
+
+.m37021080-python .text{
+    padding: 18px 0px 14px 0px;
+}
+
+main .m37021080-python h4{
+    font-size: 25px;
+}
+
+main .pai .m37021080-sql{
+    background-color: #F1F5F9;
+    display: flex;
+    margin-top: 10px;
+    height: 103px;
+    width: 588px;
+}
+
+main .m37021080-sql h3{
+    font-weight: bold;
+ text-align: right;
+    font-size: 50px;
+    margin: 24px 110px;
+    color:   #BE123C;
+}
+
+main .pai .m37021080-sql img{
+    padding: 18px 0px 0px 1px;
+}
+
+.m37021080-sql .text{
+    padding: 27px 0px 14px 0px;
+}
+
+main .m37021080-sql h4{
+    font-size: 25px;
+}
+
+footer .footer{
+    text-align: center;
+    color: #4A56F9;
+    padding: 15px;
+}
